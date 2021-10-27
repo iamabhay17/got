@@ -91,6 +91,6 @@ round1(" 3e) Which character appears in more episodes than any other? (67) \n","
 console.clear();
 
  console.log("\n\n Congratulation "+ playername +" for completing Round 3.");
-console.log(" \n Your Total score : "+score);
+console.log(" \n Your Total score : "+ score);
 }
 }
