@@ -47,7 +47,7 @@ round1(" 1e) What was relation between THE HOUND and THE MOUNTAIN ?\n","brothers
 if(score<=2)
 {
 console.log("\n\n Sorry "+ playername +" You did not make it to Round 2.");
-console.log(" \n Your Total score : "+score);
+console.log(" \n Your Total score : "+ score);
 }
 
 else{ 
