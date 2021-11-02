@@ -1,6 +1,6 @@
 
 
-#Game-Of-Quiz
+#Game_Of_Quiz
 
 This repository has source code of a CLI game made using repl.it.
 
