@@ -1,11 +1,13 @@
-Runtime for writing back-end JavaScript.
 
-# Node.js
 
-This is the Template Repl for Node.js.
+#Game-Of-Quiz
 
-Node.js is a runtime for writing back-end JavaScript. It's extremely popular because it allows web developers to create full applications with a single language (JavaScript).
+This repository has source code of a CLI game made using repl.it.
 
-[Check out the official docs here](https://www.python.org/).
+
+Game consist of 3 round(5 questions each round).
+
+to qualify you need to answer minimum 3 right answers in each round.
+you final score will be displayed at end of the game.
 
 
